@@ -3,14 +3,15 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Amatic SC', cursive;
+    height: 100%;
 }
 
 .text_block {
     display: grid;
-    grid-template-columns: 1fr 620px 1fr;
-    grid-template-rows: 1fr 340px 1fr;
-    height: 100vh;
-    width: 100vw;
+    grid-template-columns: 1fr 630px 1fr;
+    grid-template-rows: 1fr 360px 1fr;
+    height: 99.1vh;
+    width: 99.1vw;
 }
 
 .text {
@@ -51,7 +52,7 @@ body {
     grid-row: 1 / 1;
     padding: 0%;
     opacity: 0.5;
-    content: url("https://i.imgur.com/LyoAjZh.jpg")
+    content: url("https://i.imgur.com/p77rx5H.jpg")
 }
 
 .pictureblock2 {
@@ -59,7 +60,7 @@ body {
     grid-row: 3 / 3;
     padding: 0%;
     opacity: 0.5;
-    content: url("https://i.imgur.com/LyoAjZh.jpg")
+    content: url("https://i.imgur.com/p77rx5H.jpg")
 }
 
 #transport{
